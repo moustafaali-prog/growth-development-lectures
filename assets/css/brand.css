@@ -1,0 +1,21 @@
+/* brand: Growth and Development */
+:root{
+  --accent:#0e6b57;
+  --accent-2:#12a37f;
+  --accent-soft:#e4f3ec;
+  --gold:#8a6420;
+  --paper:#f6f8f5;
+  --brand-gradient:linear-gradient(135deg,#0e6b57 0%,#17a67e 100%);
+  --brand-glow:#0e6b5722;
+}
+html[data-theme="dark"]{
+  --accent:#3ddc9a;
+  --accent-2:#8ef0c4;
+  --accent-soft:#0d2620;
+  --gold:#d2a85a;
+  --paper:#090d0c;
+  --surface:#111716;
+  --line:#212c29;
+  --brand-gradient:linear-gradient(135deg,#10b981 0%,#5eead4 100%);
+  --brand-glow:#3ddc9a26;
+}
